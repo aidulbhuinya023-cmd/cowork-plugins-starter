@@ -1,0 +1,8 @@
+{
+  "name": "your-plugin-name",
+  "version": "0.1.0",
+  "description": "One sentence: who this is for and what it helps them do.",
+  "author": { "name": "Your Team" },
+  "license": "MIT",
+  "keywords": ["role", "workflow"]
+}

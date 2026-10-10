@@ -1,0 +1,15 @@
+{
+  "name": "customer-support",
+  "version": "0.1.0",
+  "description": "Triage tickets, draft consistent replies, and package clean escalations using your support platform and knowledge base.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "tickets",
+    "triage",
+    "escalation",
+    "support"
+  ]
+}

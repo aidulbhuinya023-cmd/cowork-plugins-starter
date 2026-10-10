@@ -1,0 +1,15 @@
+{
+  "name": "plugin-management",
+  "version": "0.1.0",
+  "description": "Create, customize, and audit plugins in this repo. Helps team leads add company terminology, swap connectors, and keep plugins healthy.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "plugins",
+    "customization",
+    "templates",
+    "governance"
+  ]
+}

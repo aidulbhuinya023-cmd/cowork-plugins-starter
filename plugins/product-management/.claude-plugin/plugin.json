@@ -1,0 +1,15 @@
+{
+  "name": "product-management",
+  "version": "0.1.0",
+  "description": "Write PRDs, prioritize roadmap candidates, and synthesize customer feedback using your tracker, design files, analytics, and docs.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "prd",
+    "roadmap",
+    "prioritization",
+    "feedback"
+  ]
+}

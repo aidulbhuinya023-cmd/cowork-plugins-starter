@@ -1,0 +1,15 @@
+{
+  "name": "sales",
+  "version": "0.1.0",
+  "description": "Prep calls, review deals, and draft follow-ups using your CRM, email, calendar, and call recordings, or uploaded notes.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "crm",
+    "deals",
+    "call-prep",
+    "follow-up"
+  ]
+}

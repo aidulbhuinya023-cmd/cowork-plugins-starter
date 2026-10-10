@@ -1,0 +1,15 @@
+{
+  "name": "productivity",
+  "version": "0.1.0",
+  "description": "Plan your day, keep a clean task list, and run a weekly review using your calendar, email, chat, and project tracker, or plain pasted text.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "tasks",
+    "planning",
+    "calendar",
+    "weekly-review"
+  ]
+}

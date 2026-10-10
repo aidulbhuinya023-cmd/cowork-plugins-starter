@@ -1,0 +1,15 @@
+{
+  "name": "bio-research",
+  "version": "0.1.0",
+  "description": "Search the literature, look up targets and compounds, and map clinical trial landscapes using PubMed, bioRxiv, ChEMBL, Open Targets, and ClinicalTrials.gov. For research use only.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pubmed",
+    "literature",
+    "drug-discovery",
+    "clinical-trials"
+  ]
+}

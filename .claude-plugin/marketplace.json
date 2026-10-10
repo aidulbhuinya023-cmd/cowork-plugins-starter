@@ -1,0 +1,88 @@
+{
+  "name": "cowork-plugins-starter",
+  "owner": {
+    "name": "Your Team"
+  },
+  "metadata": {
+    "description": "Starter marketplace of role-based plugins for knowledge workers. Copy, edit the markdown, install."
+  },
+  "plugins": [
+    {
+      "name": "productivity",
+      "displayName": "Productivity",
+      "source": "./plugins/productivity",
+      "description": "Plan your day, keep a clean task list, and run a weekly review using your calendar, email, chat, and project tracker, or plain pasted text.",
+      "category": "productivity"
+    },
+    {
+      "name": "sales",
+      "displayName": "Sales",
+      "source": "./plugins/sales",
+      "description": "Prep calls, review deals, and draft follow-ups using your CRM, email, calendar, and call recordings, or uploaded notes.",
+      "category": "sales"
+    },
+    {
+      "name": "customer-support",
+      "displayName": "Customer Support",
+      "source": "./plugins/customer-support",
+      "description": "Triage tickets, draft consistent replies, and package clean escalations using your support platform and knowledge base.",
+      "category": "support"
+    },
+    {
+      "name": "product-management",
+      "displayName": "Product Management",
+      "source": "./plugins/product-management",
+      "description": "Write PRDs, prioritize roadmap candidates, and synthesize customer feedback using your tracker, design files, analytics, and docs.",
+      "category": "product"
+    },
+    {
+      "name": "marketing",
+      "displayName": "Marketing",
+      "source": "./plugins/marketing",
+      "description": "Plan campaigns, draft on-brand content, and report on performance using your CRM, analytics, design, and email marketing tools.",
+      "category": "marketing"
+    },
+    {
+      "name": "legal",
+      "displayName": "Legal",
+      "source": "./plugins/legal",
+      "description": "Review contracts against your playbook, triage NDAs, and explain clauses in plain language. Assistive analysis for attorney review, not legal advice.",
+      "category": "legal"
+    },
+    {
+      "name": "finance",
+      "displayName": "Finance",
+      "source": "./plugins/finance",
+      "description": "Explain variances, prepare journal entries for review, and track month-end close using your data warehouse and spreadsheets.",
+      "category": "finance"
+    },
+    {
+      "name": "data",
+      "displayName": "Data",
+      "source": "./plugins/data",
+      "description": "Write and check SQL, profile datasets, and turn results into clear stories for stakeholders using your warehouse and BI tools.",
+      "category": "data"
+    },
+    {
+      "name": "enterprise-search",
+      "displayName": "Enterprise Search",
+      "source": "./plugins/enterprise-search",
+      "description": "Ask one question and search chat, docs, email, and tickets together, with sources, dates, and honest confidence.",
+      "category": "productivity"
+    },
+    {
+      "name": "bio-research",
+      "displayName": "Bio Research",
+      "source": "./plugins/bio-research",
+      "description": "Search the literature, look up targets and compounds, and map clinical trial landscapes using PubMed, bioRxiv, ChEMBL, Open Targets, and ClinicalTrials.gov. For research use only.",
+      "category": "life-sciences"
+    },
+    {
+      "name": "plugin-management",
+      "displayName": "Plugin Management",
+      "source": "./plugins/plugin-management",
+      "description": "Create, customize, and audit plugins in this repo. Helps team leads add company terminology, swap connectors, and keep plugins healthy.",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "marketing",
+  "version": "0.1.0",
+  "description": "Plan campaigns, draft on-brand content, and report on performance using your CRM, analytics, design, and email marketing tools.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "campaigns",
+    "content",
+    "brand",
+    "reporting"
+  ]
+}

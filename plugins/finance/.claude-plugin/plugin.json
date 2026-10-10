@@ -1,0 +1,15 @@
+{
+  "name": "finance",
+  "version": "0.1.0",
+  "description": "Explain variances, prepare journal entries for review, and track month-end close using your data warehouse and spreadsheets.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "variance",
+    "journal-entries",
+    "close",
+    "reporting"
+  ]
+}

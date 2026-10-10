@@ -1,0 +1,15 @@
+{
+  "name": "enterprise-search",
+  "version": "0.1.0",
+  "description": "Ask one question and search chat, docs, email, and tickets together, with sources, dates, and honest confidence.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "search",
+    "knowledge",
+    "digest",
+    "experts"
+  ]
+}

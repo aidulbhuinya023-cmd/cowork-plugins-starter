@@ -1,0 +1,15 @@
+{
+  "name": "data",
+  "version": "0.1.0",
+  "description": "Write and check SQL, profile datasets, and turn results into clear stories for stakeholders using your warehouse and BI tools.",
+  "author": {
+    "name": "Your Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sql",
+    "analytics",
+    "exploration",
+    "insights"
+  ]
+}
